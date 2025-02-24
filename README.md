@@ -1,6 +1,7 @@
 # VKU LIBRARY
 
-- App giải quyết các vấn đề gặp phải khi sử dụng [Vku Elib](https://elib.vku.udn.vn/)
+- App giải quyết các vấn đề gặp phải khi sử dụng [Vku Elib](https://elib.vku.udn.vn/).
+- [📹 Xem video Demo](./assets/demo.mp4)
 
 ## Chức năng
 
