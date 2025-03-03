@@ -14,6 +14,12 @@
 - Hiện tại tools mới khả dụng cho Window(.exe) và Linux(.deb, AppImage).
 - Tải xuống file cài đặt [tại đây.](https://github.com/dunneeee/vku-elibrary/releases/latest)
 
+## Sử dụng
+
+- Tải và cài đặt (Đối với linux thêm flag --no-sandbox `vku-libs-downloading --no-sandbox`)
+- Đăng nhập bằng tài khoản vku elib, nếu chưa có cần đăng ký trước.
+- Sử dụng thôi.
+
 ## Đóng góp
 
 - Mọi vấn đề gặp phải trong quá trình sử dụng vui lòng gửi vào tab [issues](https://github.com/dunneeee/vku-elibrary/issues)
